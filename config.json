@@ -1,0 +1,8 @@
+{
+  "Port": "8080",
+  "DBIp": "127.0.0.1",
+  "DBPort": "3306",
+  "DBName": "test_only",
+  "DBUserName": "root",
+  "DBPassword": "mustangP@51"
+}
